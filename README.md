@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shay-seidmedova
 - 👀 I’m interested in developer productivity, creativity, and using technology for better human connection
-- 🌱 I’m currently learning AI tools, Java, C, and trying to deepen my knowledge in JavaScript
+- 🌱 I’m currently learning AI tools, Java/JUnit, Docker/Kubernetes, GCP, and trying to deepen my knowledge in JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ⚡ Fun fact: 
